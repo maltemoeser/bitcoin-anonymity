@@ -14,7 +14,7 @@ Links and dates correspond to the first public version that we are aware of.
 | Fresh addresses |  | October 2009 | [Commit](https://github.com/bitcoin/bitcoin/commit/99cef996c788755af95a0a614d7154a30928d4b9) |
 | Merge avoidance | Hearn 2013 | December 2013 | [Medium](https://medium.com/@octskyward/merge-avoidance-7f95a386692f) |
 | Mixcoin | Bonneau et al. 2014 | February 2014 | [ePrint](https://eprint.iacr.org/2014/077) |
-| Mixing services  | *cf. Möser, Böhme & Breuker 2013* |   |   |
+| Mixing services  | *cf. Möser, Böhme & Breuker 2013* | 2011 |  |
 | Ring signatures | Van Saberhagen 2012 | December 2012 | [Cryptonote](https://cryptonote.org/whitepaper_v1.pdf) |
 | Stealth addresses | Todd 2014 | Todd 2014 | [Mailinglist](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2014-January/004020.html) |
 | TumbleBit | Heilman et al. 2017 | June 2016 | [ePrint](https://eprint.iacr.org/2016/575) |
