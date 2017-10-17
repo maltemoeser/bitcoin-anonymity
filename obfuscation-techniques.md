@@ -1,6 +1,6 @@
 # Techniques
 
-A list of privacy-enhancing technologies mentioned in our paper on [Obfuscation in Bitcoin](http://randomwalker.info/publications/bitcoin-obfuscation.pdf).
+A list of privacy-enhancing technologies mentioned in our paper on [Obfuscation in Bitcoin](https://arxiv.org/pdf/1706.05432.pdf).
 Links and dates correspond to the first public version that we are aware of.
 
 | Name  | Reference  | Month of first publication/announcement | Link  |
@@ -20,4 +20,4 @@ Links and dates correspond to the first public version that we are aware of.
 | TumbleBit | Heilman et al. 2017 | June 2016 | [ePrint](https://eprint.iacr.org/2016/575) |
 | XIM | Bissias et al. 2014 | November 2014 | [ACM](https://dl.acm.org/citation.cfm?id=2665955) |
 | Zerocash | Sasson et al. 2014 | May 2014 | [ePrint](https://eprint.iacr.org/2014/349) |
-| Zerocoin | Miers et al. 2013 | May 2013 | [Zerocoin](http://zerocoin.org/talks_and_press) |
+| Zerocoin | Miers et al. 2013 | May 2013 | [Website](http://zerocoin.org/talks_and_press) |
