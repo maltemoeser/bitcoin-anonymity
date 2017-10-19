@@ -16,7 +16,7 @@ Links and dates correspond to the first public version that we are aware of.
 | Mixcoin | Bonneau et al. 2014 | February 2014 | [ePrint](https://eprint.iacr.org/2014/077) |
 | Mixing services  | *cf. Möser, Böhme & Breuker 2013* | 2011 |  |
 | Ring signatures | Van Saberhagen 2012 | December 2012 | [Cryptonote](https://cryptonote.org/whitepaper_v1.pdf) |
-| Stealth addresses | Todd 2014 | Todd 2014 | [Mailinglist](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2014-January/004020.html) |
+| Stealth addresses | Todd 2014 | January 2014 | [Mailinglist](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2014-January/004020.html) |
 | TumbleBit | Heilman et al. 2017 | June 2016 | [ePrint](https://eprint.iacr.org/2016/575) |
 | XIM | Bissias et al. 2014 | November 2014 | [ACM](https://dl.acm.org/citation.cfm?id=2665955) |
 | Zerocash | Sasson et al. 2014 | May 2014 | [ePrint](https://eprint.iacr.org/2014/349) |
